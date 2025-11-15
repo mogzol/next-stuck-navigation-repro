@@ -4,6 +4,8 @@ This repo contains a minimal app to reproduce an issue with Next.js navigation w
 
 Note that the issue **does not happen** when running in dev mode (or at least I haven't been able to reproduce it). So to reproduce the issue, **you must run the production build**.
 
+As far as I can tell, this issue also only happens on pages that have a `loading.tsx` file. I can't reproduce for pages that don't have a loading UI.
+
 ## Reproduction Steps
 
 1. Run `pnpm install`

@@ -18,7 +18,7 @@ As far as I can tell, this issue also only happens on pages that have a `loading
   
 ## Example
 
-This video shows the issue happening. The first couple refreshes work fine, but then it gets stuck on the third one. Then after performing a full page refresh, it gets stuck again on the first refresh. Then after changing the network reqeuest throttling to "Slow 4G", the issue goes away.
+This video shows the issue happening. The first couple refreshes work fine, but then it gets stuck on the third one. Then after performing a full page refresh, it gets stuck again on the first refresh. Then after changing the network request throttling to "Slow 4G", the issue goes away.
 
 
 https://github.com/user-attachments/assets/6ec273db-20b8-4f97-9310-04c8e13aa007
